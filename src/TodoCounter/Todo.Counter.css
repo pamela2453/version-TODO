@@ -1,0 +1,25 @@
+.TodoCounter {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    font-weight: normal;
+    font-family: 'Satisfy', cursive;
+    margin-top: -3.1rem;
+}
+
+.TodoCounter span {
+    font-weight: bold;
+}
+
+.select {
+    background-color: #8ea6fc;
+    background-image: linear-gradient(62deg, #8e9efc 0%);
+    
+    padding: 5px;
+    margin-left: 7rem;
+    border-radius: 2px;
+    border: 2px solid  #8d93da ;
+
+
+}
